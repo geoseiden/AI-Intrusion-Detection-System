@@ -45,8 +45,8 @@ This repository contains an Intrusion Detection System (IDS) built using machine
 ### Usage
 
 1. Place your training and testing datasets in the `Dataset` directory.
-2. Modify the `train_file` and `test_file` variables in the `main` function of ipnyb to point to your dataset files.
-3. Run the ipnyb file
+2. Modify the `train_file` and `test_file` variables in the `main` function of python to point to your dataset files.
+3. Run the python file
 4. The system will perform hyperparameter tuning, train the model, and output the test scores for both Grid Search and Random Search.
 
 ## Acknowledgements
